@@ -1,5 +1,7 @@
 # 凡亚军 · Portfolio / Resume
 
+**个人网站：** [https://danielkater.github.io/resume/](https://danielkater.github.io/resume/)
+
 一个使用 HTML5、CSS3 和原生 JavaScript 编写的个人介绍网站。网站展示个人照片、教育背景与真实奖项，并为项目和联系方式预留位置。当前版本可直接在本地打开；未来也可以部署到 GitHub Pages。
 
 ## 技术栈
